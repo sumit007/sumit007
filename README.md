@@ -9,4 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter, NextJs
 - 👯 I’m looking to collaborate on Open source
 - 🤔 I’m looking for help with Django and Node
+- 💫 I'm open to work on new ideas.
+- ⚡  Fun fact: I am afraid of HTML and CSS
 
