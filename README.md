@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Android, Flutter, Swift, RN
-- 🌱 I’m currently learning Flutter, NextJs
+- 🌱 I’m currently learning React, Flutter, NextJs
 - 👯 I’m looking to collaborate on Open source
 - 🤔 I’m looking for help with Django and Node
 - 💫 I'm open to work on new ideas.
