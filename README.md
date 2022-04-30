@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 💫 I'm open to work on new ideas.
 - ⚡  Fun fact: I am afraid of HTML and CSS
 
+![Sumit's Github stats](https://github-readme-stats.vercel.app/api?username=sumit007&show_icons=true&theme=radical)
