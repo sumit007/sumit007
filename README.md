@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Django and Node
 - 💫 I'm open to work on new ideas.
 - ⚡  Fun fact: I am afraid of HTML and CSS
-- 
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sumit007?cardType=level&theme=buefy)](https://git.io/awesome-stats-card)
